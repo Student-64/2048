@@ -314,22 +314,33 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: #eee4da;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); 
+    background-image: url("http://img1.wikia.nocookie.net/__cb20120921042418/leagueoflegends/images/b/b5/KhaZixSquare.png");}
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); 
+    background-image: url('http://img3.leaguecraft.com/assets/images/icons/champions/champion_141.jpg'); 
+  }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: #f2b179; }
+    background: #f2b179; 
+    background-image: url('http://33.media.tumblr.com/avatar_a986a0f23c0e_128.png');
+  }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: #f59563; }
+    background: #f59563; 
+    background-image: url('http://ddragon.leagueoflegends.com/cdn/5.1.1/img/champion/Zed.png');
+  }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: #f67c5f; }
+    background: #f67c5f; 
+    background-image: url('http://solomidcdn.com/images/champions/akali.png'); 
+  }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: #f65e3b; }
+    background: #f65e3b; 
+    background-image: url('https://ddragon.leagueoflegends.com/cdn/5.15.1/img/champion/Talon.png');
+  }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;
